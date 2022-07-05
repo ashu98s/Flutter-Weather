@@ -1,4 +1,4 @@
-## Flutter Weather App ::::::::::
+## Flutter Weather App :::::::::
 
  
 ![Live Demo](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
